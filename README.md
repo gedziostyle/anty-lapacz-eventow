@@ -1,7 +1,6 @@
-# anty-lapacz-eventow PHP client
+# Anty Łapacz Eventow PHP client
 
 Klient PHP umożliwiający NIE łapanie eventów:
-
 
 Przykład wywołania:
 
@@ -29,7 +28,7 @@ W projekcie dodaj do `composer.json` pakiet:
 ```json
 {
     "require": {
-        "jarekkowol/AntyLapaczEventow": "^1.*"
+        "gedziostyle/AntyLapaczEventow": "^0.1"
     }
 }
 ```
@@ -37,5 +36,5 @@ W projekcie dodaj do `composer.json` pakiet:
 lub wykonaj polecenie
 
 ```bash
-composer require jarekkowol/AntyLapaczEventow:1.*
+composer require gedziostyle/AntyLapaczEventow:0.1
 ```

@@ -1,7 +1,7 @@
 {
-  "name": "jarekk1991/AntyŁapaczEventow",
+  "name": "gedziostyle/AntyLapaczEventow",
   "type": "library",
-  "description": "AntyŁapaczEventow PHP Client",
+  "description": "AntyLapaczEventow PHP Client",
   "homepage": "https://github.com",
   "license": "MIT",
   "require": {
