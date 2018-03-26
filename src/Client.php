@@ -2,9 +2,17 @@
 
 namespace AntyLapaczEventow;
 
+/**
+ * Class Client
+ * @package AntyLapaczEventow
+ */
 class Client
 {
-    public function execute($event)
+    /**
+     * @param $event
+     * @return bool
+     */
+    public function execute(array $event): bool
     {
         return true;
     }
