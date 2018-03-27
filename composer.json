@@ -11,5 +11,14 @@
     "psr-4": {
       "AntyLapaczEventow\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "AntyLapaczEventow\\Tests\\": "tests/"
+    }
+  },
+  "require-dev": {
+    "phpdocumentor/phpdocumentor": "^2.9",
+    "phpunit/phpunit": "^6"
   }
 }
